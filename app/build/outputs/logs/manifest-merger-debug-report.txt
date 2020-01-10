@@ -1,0 +1,596 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:50:9-60:20
+	android:grantUriPermissions
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:54:13-47
+	android:authorities
+		INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:52:13-58
+	android:exported
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:53:13-37
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:51:13-67
+manifest
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:2:1-118:12
+INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:2:1-118:12
+INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:2:1-118:12
+INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:2:1-118:12
+MERGED from [com.amitshekhar.android:debug-db:1.0.4] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.4.aar/d366f296bfb4bda1d8ec872870949917/AndroidManifest.xml:20:1-40:12
+MERGED from [com.jcodecraeer:xrecyclerview:1.5.9] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/xrecyclerview-1.5.9.aar/8f22e8a442fdb22e24b69571ef7d5ef7/AndroidManifest.xml:2:1-13:12
+MERGED from [cn.yipianfengye.android:zxing-library:2.2] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/zxing-library-2.2.aar/7d585719282bebaf11e814a886f0fa4e/AndroidManifest.xml:2:1-20:12
+MERGED from [com.github.LinweiJ:ViewPagerIndicator:0.1.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/ViewPagerIndicator-0.1.0.aar/32ba0cf5320c44b5820119b61efb7387/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.ganfra:material-spinner:2.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/material-spinner-2.0.0.aar/3d7383acd88948e3ab75f1c28457257c/AndroidManifest.xml:2:1-10:12
+MERGED from [com.github.AppIntro:AppIntro:4.2.3] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/AppIntro-4.2.3.aar/a82234c9ca621c217cb35b2dee0cee08/AndroidManifest.xml:2:1-13:12
+MERGED from [com.lijiankun24:shadowlayout:1.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/shadowlayout-1.0.0.aar/06a6571725c7bdfc0d6ec7514af56f16/AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:design:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0924ac6746cb4dc49b10282e3729cd2c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e5a02b81d6481e93d72cb26b575d0268/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/dcd1c524a091252201bd8767a9b4087c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3850207d1d6ff68682f6982db106b0f4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.38] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/BaseRecyclerViewAdapterHelper-2.9.38.aar/6ae869772b00fc706f6b5d4251aa623b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/e62723259c305d5ff4bc2ad9b43ae7f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/4df3a794c62333d4071eaba07900010f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/e125c8f25205a57564cbfd2327b7c571/AndroidManifest.xml:2:1-7:12
+MERGED from [org.litepal.android:java:3.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/java-3.0.0.aar/57135973224fa59449f43fc59fd9aeab/AndroidManifest.xml:2:1-14:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/794f551786edcbd4faf07aafb9ed99b3/AndroidManifest.xml:15:1-21:12
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.10.2.aar/9c67fef9bab06c40dc2cecd02d5c48c6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.jdsjlzx:LRecyclerView:1.5.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/LRecyclerView-1.5.0.aar/71cdd54588d9bab920365a82d1994d01/AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/abe74e32d162831ba07d4120e984390b/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.LinweiJ:BannerView:0.0.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/BannerView-0.0.1.aar/0124e3662ae728b270406136e1d38af9/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/1c737dfa9cc9bfe55b77c424937ec1f4/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.volley:volley:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/673c21e0dfb42abb652a6e8282cdb639/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.zj565061763:switchbutton:1.2.6] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/switchbutton-1.2.6.aar/9a7baf700996e069c86905d4ec6e802c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.tencent.bugly:crashreport:2.6.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/crashreport-2.6.0.aar/53492d8a3e1a74050d4cb1bd22e78d70/AndroidManifest.xml:2:1-9:12
+MERGED from [com.tencent.bugly:nativecrashreport:3.3.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/nativecrashreport-3.3.0.aar/10f2aa64670f06bceff93edfe821d48f/AndroidManifest.xml:2:1-9:12
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.7] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/android-database-sqlcipher-3.5.7.aar/e672dd0d5027def707469160e7035d07/AndroidManifest.xml:2:1-4:12
+MERGED from [android.arch.persistence.room:runtime:1.1.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/abb8c5519246c2e81ad2fb907d962b25/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/028690c7137661c482553a6e0b836a34/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.persistence:db-framework:1.1.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.0.aar/e9ebd55ab360e6127d5efeee788421c4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.persistence:db:1.1.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/db-1.1.0.aar/375d110437e4e1afe56d14d82d2f0d06/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/59e684140b4649861c5cdc8efe00da12/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3731a16edf9a9cab13506c7416317f73/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fb825649ee3b9d40c992097e90026325/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7880d52b96e86cf43f881e3757fb38f6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/197375a57c34e4295136c3a281578f5f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a64d66929e434d30946b44598d051816/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8784afbf61e3b66414d276ea7cdef5b8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6e7c0909baf07ac6a1e1b40b4f316364/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/4649ecf9fe6354a89ce17d351c6c77f9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/210be30839629d91a1fc1ea6b607407a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/a0f904689d20c20357aa62fe1334a84b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6b74aa271d0c770907295778724d3e7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/828e6dc9064139b01b7ce715b57e3d41/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/85e4c6c5a137f25c3777882d244f0bbe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/093be3ab941a14dcd0b2fa027e4ed333/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cca5647da126d2dddd2c584d7cdd40ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/455415dc8bd93000f73d651b4a2599c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/27c9481127d5d576d24b785f79db0e86/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/77c5027eded6d1f76ea0ae520fb5a3b1/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/742a0533bef2893699eccdedb8a57ac4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/993b71c6c8d524a23a6cdfd119cdce76/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7bcdafb0e11697a128a816ff4dff7a4b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c2c67221b1c30251c71c82731b6c4bac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/143b328b0291754e14c1fa0d5d5f6c61/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/34ef6cd21e21fe2040d7123d8672b4ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/de795ab515cd28cf11a8b0f1d4f785bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/62cb2e9e59c1738bce0a3e25bf453a59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3087de6dbfb55ab5c255fad949122fdd/AndroidManifest.xml:17:1-22:12
+MERGED from [org.litepal.android:core:3.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/core-3.0.0.aar/36a4759e600a12e3eb9dbe52b38e2a00/AndroidManifest.xml:2:1-14:12
+INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:2:1-118:12
+INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:2:1-118:12
+INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:2:1-118:12
+	package
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:3:5-25
+		INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:2:1-118:12
+		INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:2:1-118:12
+		INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.amitshekhar.android:debug-db:1.0.4] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.4.aar/d366f296bfb4bda1d8ec872870949917/AndroidManifest.xml:29:5-67
+MERGED from [com.amitshekhar.android:debug-db:1.0.4] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.4.aar/d366f296bfb4bda1d8ec872870949917/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:10:5-69
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:10:22-66
+uses-feature#android.hardware.camera
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:12:5-60
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:12:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:13:5-70
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:13:19-67
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:15:5-66
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:15:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:16:5-68
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:16:22-65
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:17:5-84
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:17:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:24:5-69
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:24:22-66
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:27:5-83
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:27:22-80
+uses-permission#READ_PHONE_STATE
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:29:5-56
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:29:22-53
+application
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:30:5-116:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.4] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.4.aar/d366f296bfb4bda1d8ec872870949917/AndroidManifest.xml:32:5-38:19
+MERGED from [com.amitshekhar.android:debug-db:1.0.4] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.4.aar/d366f296bfb4bda1d8ec872870949917/AndroidManifest.xml:32:5-38:19
+MERGED from [com.jcodecraeer:xrecyclerview:1.5.9] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/xrecyclerview-1.5.9.aar/8f22e8a442fdb22e24b69571ef7d5ef7/AndroidManifest.xml:11:5-20
+MERGED from [com.jcodecraeer:xrecyclerview:1.5.9] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/xrecyclerview-1.5.9.aar/8f22e8a442fdb22e24b69571ef7d5ef7/AndroidManifest.xml:11:5-20
+MERGED from [cn.yipianfengye.android:zxing-library:2.2] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/zxing-library-2.2.aar/7d585719282bebaf11e814a886f0fa4e/AndroidManifest.xml:11:5-18:19
+MERGED from [cn.yipianfengye.android:zxing-library:2.2] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/zxing-library-2.2.aar/7d585719282bebaf11e814a886f0fa4e/AndroidManifest.xml:11:5-18:19
+MERGED from [com.github.AppIntro:AppIntro:4.2.3] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/AppIntro-4.2.3.aar/a82234c9ca621c217cb35b2dee0cee08/AndroidManifest.xml:11:5-47
+MERGED from [com.github.AppIntro:AppIntro:4.2.3] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/AppIntro-4.2.3.aar/a82234c9ca621c217cb35b2dee0cee08/AndroidManifest.xml:11:5-47
+MERGED from [com.lijiankun24:shadowlayout:1.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/shadowlayout-1.0.0.aar/06a6571725c7bdfc0d6ec7514af56f16/AndroidManifest.xml:11:5-14:38
+MERGED from [com.lijiankun24:shadowlayout:1.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/shadowlayout-1.0.0.aar/06a6571725c7bdfc0d6ec7514af56f16/AndroidManifest.xml:11:5-14:38
+MERGED from [com.android.support:design:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0924ac6746cb4dc49b10282e3729cd2c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0924ac6746cb4dc49b10282e3729cd2c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3850207d1d6ff68682f6982db106b0f4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3850207d1d6ff68682f6982db106b0f4/AndroidManifest.xml:9:5-20
+MERGED from [org.litepal.android:java:3.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/java-3.0.0.aar/57135973224fa59449f43fc59fd9aeab/AndroidManifest.xml:11:5-12:19
+MERGED from [org.litepal.android:java:3.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/java-3.0.0.aar/57135973224fa59449f43fc59fd9aeab/AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.10.2.aar/9c67fef9bab06c40dc2cecd02d5c48c6/AndroidManifest.xml:9:5-20
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.10.2.aar/9c67fef9bab06c40dc2cecd02d5c48c6/AndroidManifest.xml:9:5-20
+MERGED from [com.github.jdsjlzx:LRecyclerView:1.5.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/LRecyclerView-1.5.0.aar/71cdd54588d9bab920365a82d1994d01/AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.jdsjlzx:LRecyclerView:1.5.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/LRecyclerView-1.5.0.aar/71cdd54588d9bab920365a82d1994d01/AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/abe74e32d162831ba07d4120e984390b/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/abe74e32d162831ba07d4120e984390b/AndroidManifest.xml:10:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/673c21e0dfb42abb652a6e8282cdb639/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/673c21e0dfb42abb652a6e8282cdb639/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/028690c7137661c482553a6e0b836a34/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/028690c7137661c482553a6e0b836a34/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/77c5027eded6d1f76ea0ae520fb5a3b1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/77c5027eded6d1f76ea0ae520fb5a3b1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/993b71c6c8d524a23a6cdfd119cdce76/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/993b71c6c8d524a23a6cdfd119cdce76/AndroidManifest.xml:22:5-23:19
+MERGED from [org.litepal.android:core:3.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/core-3.0.0.aar/36a4759e600a12e3eb9dbe52b38e2a00/AndroidManifest.xml:11:5-12:19
+MERGED from [org.litepal.android:core:3.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/core-3.0.0.aar/36a4759e600a12e3eb9dbe52b38e2a00/AndroidManifest.xml:11:5-12:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/77c5027eded6d1f76ea0ae520fb5a3b1/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:37:9-35
+	android:label
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:34:9-41
+	android:roundIcon
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:36:9-40
+	android:icon
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:33:9-35
+	android:allowBackup
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:32:9-35
+	android:theme
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:38:9-40
+	android:networkSecurityConfig
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:35:9-69
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:31:9-44
+activity#com.qy.emt.aty.SplashAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:39:9-45:20
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:39:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:43:27-74
+activity#com.qy.emt.aty.account.LoginAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:62:9-68
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:62:19-65
+activity#com.qy.emt.aty.account.LoginAndRegisterAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:63:9-79
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:63:19-76
+activity#com.qy.emt.aty.wallet.WalletMnemonicAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:64:9-76
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:64:19-73
+activity#com.qy.emt.aty.wallet.VerificationMnemonicAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:65:9-82
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:65:19-79
+activity#com.qy.emt.aty.wallet.WalletPasswordAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:66:9-76
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:66:19-73
+activity#com.qy.emt.aty.wallet.WalletAlterPasswordAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:67:9-81
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:67:19-78
+activity#com.qy.emt.aty.MainAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:68:9-59
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:68:19-56
+activity#com.qy.emt.aty.wallet.WalletTransactionAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:69:9-79
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:69:19-76
+activity#com.qy.emt.aty.wallet.WalletMarketAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:70:9-74
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:70:19-71
+activity#com.qy.emt.aty.wallet.WalletTransferAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:71:9-76
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:71:19-73
+activity#com.qy.emt.aty.wallet.WalletTransferSuccessAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:72:9-83
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:72:19-80
+activity#com.qy.emt.aty.account.RegisterAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:73:9-71
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:73:19-68
+activity#com.qy.emt.aty.wallet.ImputWalletAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:74:9-73
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:74:19-70
+activity#com.qy.emt.aty.wallet.WalletTransfer2Aty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:75:9-77
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:75:19-74
+activity#com.qy.emt.aty.wallet.WalletCodeAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:76:9-72
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:76:19-69
+activity#com.qy.emt.aty.wallet.ImputWalletPrivateAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:77:9-80
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:77:19-77
+activity#com.qy.emt.aty.my.MyAboutAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:78:9-65
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:78:19-62
+activity#com.qy.emt.aty.my.MyOpinionAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:79:9-67
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:79:19-64
+activity#com.qy.emt.aty.WelcomeAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:80:9-62
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:80:19-59
+activity#com.qy.emt.aty.wallet.MyCodeAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:81:9-68
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:81:19-65
+activity#com.qy.emt.aty.my.ChangePasswordAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:82:9-72
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:82:19-69
+activity#com.qy.emt.aty.my.InviteCodeAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:83:9-68
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:83:19-65
+activity#com.qy.emt.aty.my.WhitePaperAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:84:9-68
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:84:19-65
+activity#com.qy.emt.aty.my.AboutUsAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:85:9-65
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:85:19-62
+activity#com.qy.emt.aty.my.CreBtcAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:86:9-64
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:86:19-61
+activity#com.qy.emt.aty.my.UserRedemptionRecordsAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:87:9-79
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:87:19-76
+activity#com.qy.emt.aty.my.UserEarnRecordsAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:88:9-73
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:88:19-70
+activity#com.qy.emt.aty.my.MyFincialRecordsAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:89:9-74
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:89:19-71
+activity#com.qy.emt.aty.wallet.WalletAdvertisingAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:90:9-79
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:90:19-76
+activity#com.qy.emt.aty.my.ExportPrikeyAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:91:9-70
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:91:19-67
+activity#com.qy.emt.aty.wallet.ImputWalletPriAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:92:9-76
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:92:19-73
+activity#com.qy.emt.aty.my.UserTangguoAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:93:9-69
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:93:19-66
+activity#com.qy.emt.aty.my.UserZhongchuAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:94:9-70
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:94:19-67
+activity#com.qy.emt.aty.account.ForgetPasswordAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:95:9-67
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:95:19-64
+activity#com.qy.emt.aty.IntroActivity
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:96:9-65
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:96:19-62
+activity#com.qy.emt.aty.wallet.ImputWalletAndCreateWalletAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:97:9-88
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:97:19-85
+activity#com.qy.emt.aty.wallet.CreateImportAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:98:9-74
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:98:19-71
+activity#com.qy.emt.aty.wallet.ChangeLanguageAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:99:9-76
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:99:19-73
+activity#com.qy.emt.aty.wallet.CreateWalletAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:100:9-74
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:100:19-71
+activity#com.qy.emt.aty.wallet.PrivateKeyImportAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:101:9-78
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:101:19-75
+activity#com.qy.emt.aty.wallet.NonnemicWordImportAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:102:9-80
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:102:19-77
+activity#com.qy.emt.aty.wallet.NoticeCenterViewPagerAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:103:9-83
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:103:19-80
+activity#com.qy.emt.aty.wallet.UserFallbackAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:104:9-74
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:104:19-71
+activity#com.qy.emt.aty.wallet.ChangePassAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:105:9-72
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:105:19-69
+activity#com.qy.emt.aty.wallet.UserProtiAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:106:9-71
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:106:19-68
+activity#com.qy.emt.aty.wallet.AboutUsAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:107:9-69
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:107:19-66
+activity#com.qy.emt.aty.wallet.CurrVersionAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:108:9-73
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:108:19-70
+activity#com.qy.emt.aty.wallet.VerificationMnemonicWordAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:109:9-86
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:109:19-83
+activity#com.qy.emt.fragment.main.CreateWalletInAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:110:9-79
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:110:19-76
+activity#com.qy.emt.fragment.main.NonImportWalletInAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:111:9-82
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:111:19-79
+activity#com.qy.emt.fragment.main.PrivateImportWalletInAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:112:9-86
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:112:19-83
+activity#com.qy.emt.fragment.main.CreateImportWalletInAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:113:9-85
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:113:19-82
+activity#com.qy.emt.fragment.find.WebViewAty
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:114:9-72
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:114:19-69
+uses-sdk
+INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml
+MERGED from [com.amitshekhar.android:debug-db:1.0.4] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.4.aar/d366f296bfb4bda1d8ec872870949917/AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:debug-db:1.0.4] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.4.aar/d366f296bfb4bda1d8ec872870949917/AndroidManifest.xml:25:5-27:41
+MERGED from [com.jcodecraeer:xrecyclerview:1.5.9] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/xrecyclerview-1.5.9.aar/8f22e8a442fdb22e24b69571ef7d5ef7/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jcodecraeer:xrecyclerview:1.5.9] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/xrecyclerview-1.5.9.aar/8f22e8a442fdb22e24b69571ef7d5ef7/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.yipianfengye.android:zxing-library:2.2] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/zxing-library-2.2.aar/7d585719282bebaf11e814a886f0fa4e/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.yipianfengye.android:zxing-library:2.2] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/zxing-library-2.2.aar/7d585719282bebaf11e814a886f0fa4e/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.LinweiJ:ViewPagerIndicator:0.1.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/ViewPagerIndicator-0.1.0.aar/32ba0cf5320c44b5820119b61efb7387/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.LinweiJ:ViewPagerIndicator:0.1.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/ViewPagerIndicator-0.1.0.aar/32ba0cf5320c44b5820119b61efb7387/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ganfra:material-spinner:2.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/material-spinner-2.0.0.aar/3d7383acd88948e3ab75f1c28457257c/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.ganfra:material-spinner:2.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/material-spinner-2.0.0.aar/3d7383acd88948e3ab75f1c28457257c/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.AppIntro:AppIntro:4.2.3] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/AppIntro-4.2.3.aar/a82234c9ca621c217cb35b2dee0cee08/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.AppIntro:AppIntro:4.2.3] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/AppIntro-4.2.3.aar/a82234c9ca621c217cb35b2dee0cee08/AndroidManifest.xml:7:5-9:41
+MERGED from [com.lijiankun24:shadowlayout:1.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/shadowlayout-1.0.0.aar/06a6571725c7bdfc0d6ec7514af56f16/AndroidManifest.xml:7:5-9:41
+MERGED from [com.lijiankun24:shadowlayout:1.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/shadowlayout-1.0.0.aar/06a6571725c7bdfc0d6ec7514af56f16/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0924ac6746cb4dc49b10282e3729cd2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/0924ac6746cb4dc49b10282e3729cd2c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e5a02b81d6481e93d72cb26b575d0268/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/e5a02b81d6481e93d72cb26b575d0268/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/dcd1c524a091252201bd8767a9b4087c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/dcd1c524a091252201bd8767a9b4087c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3850207d1d6ff68682f6982db106b0f4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/3850207d1d6ff68682f6982db106b0f4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.38] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/BaseRecyclerViewAdapterHelper-2.9.38.aar/6ae869772b00fc706f6b5d4251aa623b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.38] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/BaseRecyclerViewAdapterHelper-2.9.38.aar/6ae869772b00fc706f6b5d4251aa623b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/e62723259c305d5ff4bc2ad9b43ae7f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/e62723259c305d5ff4bc2ad9b43ae7f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.3] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/4df3a794c62333d4071eaba07900010f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/4df3a794c62333d4071eaba07900010f/AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/e125c8f25205a57564cbfd2327b7c571/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/e125c8f25205a57564cbfd2327b7c571/AndroidManifest.xml:5:5-43
+MERGED from [org.litepal.android:java:3.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/java-3.0.0.aar/57135973224fa59449f43fc59fd9aeab/AndroidManifest.xml:7:5-9:41
+MERGED from [org.litepal.android:java:3.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/java-3.0.0.aar/57135973224fa59449f43fc59fd9aeab/AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/794f551786edcbd4faf07aafb9ed99b3/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.2] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.2.aar/794f551786edcbd4faf07aafb9ed99b3/AndroidManifest.xml:19:5-43
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.10.2.aar/9c67fef9bab06c40dc2cecd02d5c48c6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.10.2.aar/9c67fef9bab06c40dc2cecd02d5c48c6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.jdsjlzx:LRecyclerView:1.5.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/LRecyclerView-1.5.0.aar/71cdd54588d9bab920365a82d1994d01/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.jdsjlzx:LRecyclerView:1.5.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/LRecyclerView-1.5.0.aar/71cdd54588d9bab920365a82d1994d01/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/abe74e32d162831ba07d4120e984390b/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.8.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/glide-4.8.0.aar/abe74e32d162831ba07d4120e984390b/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.LinweiJ:BannerView:0.0.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/BannerView-0.0.1.aar/0124e3662ae728b270406136e1d38af9/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.LinweiJ:BannerView:0.0.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/BannerView-0.0.1.aar/0124e3662ae728b270406136e1d38af9/AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/1c737dfa9cc9bfe55b77c424937ec1f4/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/rxandroid-1.2.1.aar/1c737dfa9cc9bfe55b77c424937ec1f4/AndroidManifest.xml:19:5-43
+MERGED from [com.android.volley:volley:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/673c21e0dfb42abb652a6e8282cdb639/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/673c21e0dfb42abb652a6e8282cdb639/AndroidManifest.xml:7:5-43
+MERGED from [com.github.zj565061763:switchbutton:1.2.6] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/switchbutton-1.2.6.aar/9a7baf700996e069c86905d4ec6e802c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.zj565061763:switchbutton:1.2.6] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/switchbutton-1.2.6.aar/9a7baf700996e069c86905d4ec6e802c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tencent.bugly:crashreport:2.6.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/crashreport-2.6.0.aar/53492d8a3e1a74050d4cb1bd22e78d70/AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:crashreport:2.6.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/crashreport-2.6.0.aar/53492d8a3e1a74050d4cb1bd22e78d70/AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.3.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/nativecrashreport-3.3.0.aar/10f2aa64670f06bceff93edfe821d48f/AndroidManifest.xml:5:5-7:41
+MERGED from [com.tencent.bugly:nativecrashreport:3.3.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/nativecrashreport-3.3.0.aar/10f2aa64670f06bceff93edfe821d48f/AndroidManifest.xml:5:5-7:41
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.7] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/android-database-sqlcipher-3.5.7.aar/e672dd0d5027def707469160e7035d07/AndroidManifest.xml:3:3-40
+MERGED from [net.zetetic:android-database-sqlcipher:3.5.7] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/android-database-sqlcipher-3.5.7.aar/e672dd0d5027def707469160e7035d07/AndroidManifest.xml:3:3-40
+MERGED from [android.arch.persistence.room:runtime:1.1.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/abb8c5519246c2e81ad2fb907d962b25/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence.room:runtime:1.1.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/abb8c5519246c2e81ad2fb907d962b25/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/028690c7137661c482553a6e0b836a34/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.8.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.8.0.aar/028690c7137661c482553a6e0b836a34/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.persistence:db-framework:1.1.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.0.aar/e9ebd55ab360e6127d5efeee788421c4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db-framework:1.1.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/db-framework-1.1.0.aar/e9ebd55ab360e6127d5efeee788421c4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/db-1.1.0.aar/375d110437e4e1afe56d14d82d2f0d06/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.persistence:db:1.1.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/db-1.1.0.aar/375d110437e4e1afe56d14d82d2f0d06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/59e684140b4649861c5cdc8efe00da12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/59e684140b4649861c5cdc8efe00da12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3731a16edf9a9cab13506c7416317f73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/3731a16edf9a9cab13506c7416317f73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fb825649ee3b9d40c992097e90026325/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/fb825649ee3b9d40c992097e90026325/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7880d52b96e86cf43f881e3757fb38f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7880d52b96e86cf43f881e3757fb38f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/197375a57c34e4295136c3a281578f5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/197375a57c34e4295136c3a281578f5f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a64d66929e434d30946b44598d051816/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a64d66929e434d30946b44598d051816/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8784afbf61e3b66414d276ea7cdef5b8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8784afbf61e3b66414d276ea7cdef5b8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6e7c0909baf07ac6a1e1b40b4f316364/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6e7c0909baf07ac6a1e1b40b4f316364/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/4649ecf9fe6354a89ce17d351c6c77f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/4649ecf9fe6354a89ce17d351c6c77f9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/210be30839629d91a1fc1ea6b607407a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/210be30839629d91a1fc1ea6b607407a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/a0f904689d20c20357aa62fe1334a84b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/a0f904689d20c20357aa62fe1334a84b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6b74aa271d0c770907295778724d3e7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/6b74aa271d0c770907295778724d3e7f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/828e6dc9064139b01b7ce715b57e3d41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/828e6dc9064139b01b7ce715b57e3d41/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/85e4c6c5a137f25c3777882d244f0bbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/85e4c6c5a137f25c3777882d244f0bbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/093be3ab941a14dcd0b2fa027e4ed333/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/093be3ab941a14dcd0b2fa027e4ed333/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cca5647da126d2dddd2c584d7cdd40ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cca5647da126d2dddd2c584d7cdd40ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/455415dc8bd93000f73d651b4a2599c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/455415dc8bd93000f73d651b4a2599c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/27c9481127d5d576d24b785f79db0e86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/27c9481127d5d576d24b785f79db0e86/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/77c5027eded6d1f76ea0ae520fb5a3b1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/77c5027eded6d1f76ea0ae520fb5a3b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/742a0533bef2893699eccdedb8a57ac4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/742a0533bef2893699eccdedb8a57ac4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/993b71c6c8d524a23a6cdfd119cdce76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/993b71c6c8d524a23a6cdfd119cdce76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7bcdafb0e11697a128a816ff4dff7a4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/7bcdafb0e11697a128a816ff4dff7a4b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c2c67221b1c30251c71c82731b6c4bac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/c2c67221b1c30251c71c82731b6c4bac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/143b328b0291754e14c1fa0d5d5f6c61/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/143b328b0291754e14c1fa0d5d5f6c61/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/34ef6cd21e21fe2040d7123d8672b4ee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/34ef6cd21e21fe2040d7123d8672b4ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/de795ab515cd28cf11a8b0f1d4f785bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/de795ab515cd28cf11a8b0f1d4f785bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/62cb2e9e59c1738bce0a3e25bf453a59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/62cb2e9e59c1738bce0a3e25bf453a59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3087de6dbfb55ab5c255fad949122fdd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/3087de6dbfb55ab5c255fad949122fdd/AndroidManifest.xml:20:5-44
+MERGED from [org.litepal.android:core:3.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/core-3.0.0.aar/36a4759e600a12e3eb9dbe52b38e2a00/AndroidManifest.xml:7:5-9:41
+MERGED from [org.litepal.android:core:3.0.0] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/core-3.0.0.aar/36a4759e600a12e3eb9dbe52b38e2a00/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:56:13-58:54
+	android:resource
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:58:17-51
+	android:name
+		ADDED from /Users/dongwenlong/Desktop/qianyi/dev/EMTC_Android/app/src/main/AndroidManifest.xml:57:17-67
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.amitshekhar.android:debug-db:1.0.4] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.4.aar/d366f296bfb4bda1d8ec872870949917/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.4] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.4.aar/d366f296bfb4bda1d8ec872870949917/AndroidManifest.xml:30:22-73
+provider#com.amitshekhar.DebugDBInitProvider
+ADDED from [com.amitshekhar.android:debug-db:1.0.4] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.4.aar/d366f296bfb4bda1d8ec872870949917/AndroidManifest.xml:33:9-37:40
+	android:enabled
+		ADDED from [com.amitshekhar.android:debug-db:1.0.4] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.4.aar/d366f296bfb4bda1d8ec872870949917/AndroidManifest.xml:36:13-35
+	android:authorities
+		ADDED from [com.amitshekhar.android:debug-db:1.0.4] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.4.aar/d366f296bfb4bda1d8ec872870949917/AndroidManifest.xml:35:13-71
+	android:exported
+		ADDED from [com.amitshekhar.android:debug-db:1.0.4] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.4.aar/d366f296bfb4bda1d8ec872870949917/AndroidManifest.xml:37:13-37
+	android:name
+		ADDED from [com.amitshekhar.android:debug-db:1.0.4] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/debug-db-1.0.4.aar/d366f296bfb4bda1d8ec872870949917/AndroidManifest.xml:34:13-63
+activity#com.uuzuche.lib_zxing.activity.CaptureActivity
+ADDED from [cn.yipianfengye.android:zxing-library:2.2] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/zxing-library-2.2.aar/7d585719282bebaf11e814a886f0fa4e/AndroidManifest.xml:12:9-17:63
+	android:screenOrientation
+		ADDED from [cn.yipianfengye.android:zxing-library:2.2] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/zxing-library-2.2.aar/7d585719282bebaf11e814a886f0fa4e/AndroidManifest.xml:15:13-49
+	android:windowSoftInputMode
+		ADDED from [cn.yipianfengye.android:zxing-library:2.2] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/zxing-library-2.2.aar/7d585719282bebaf11e814a886f0fa4e/AndroidManifest.xml:17:13-60
+	android:configChanges
+		ADDED from [cn.yipianfengye.android:zxing-library:2.2] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/zxing-library-2.2.aar/7d585719282bebaf11e814a886f0fa4e/AndroidManifest.xml:14:13-63
+	android:theme
+		ADDED from [cn.yipianfengye.android:zxing-library:2.2] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/zxing-library-2.2.aar/7d585719282bebaf11e814a886f0fa4e/AndroidManifest.xml:16:13-63
+	android:name
+		ADDED from [cn.yipianfengye.android:zxing-library:2.2] /Users/dongwenlong/.gradle/caches/transforms-1/files-1.1/zxing-library-2.2.aar/7d585719282bebaf11e814a886f0fa4e/AndroidManifest.xml:13:13-74

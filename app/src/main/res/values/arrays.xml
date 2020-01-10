@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Data">
+        <item>您配偶的生日是？</item>
+        <item>您母亲的生日是？</item>
+        <item>您小学班主任的名字是？</item>
+        <item>您最熟悉的童年好友名字是？</item>
+        <item>对您影响最大的人名字是？</item>
+    </string-array>
+    <string-array name="DataUserFallback">
+        <item>How can I quickly check the status of a transfer transaction?</item>
+        <item>What is the reason for the transfer failure?</item>
+        <item>Why does the transfer failure also deduct the miners’ fees?</item>
+        <item>What should I do if I fill in the wrong address when I transfer?</item>
+        <item>What happens when the transaction arrives but does not show it?</item>
+    </string-array>
+</resources>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/color_1186ce_color_0692c2_jianbian"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:orientation="horizontal">
+
+
+        <ImageView
+            android:id="@+id/change_language_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dp_56"
+            android:visibility="gone"
+            android:layout_marginEnd="@dimen/dp_21"
+            android:src="@mipmap/icon_multilingual" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="100dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ccm_wallet"
+            android:textColor="@color/color_ffffff"
+            android:textSize="26sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dp_10"
+            android:text="Your first digital identity"
+            android:textColor="@color/color_ffffff"
+            android:textSize="@dimen/sp_20" />
+
+        <TextView
+            android:id="@+id/create_wallet_id"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_48"
+            android:layout_marginHorizontal="@dimen/dp_38"
+            android:layout_marginTop="@dimen/dp_70"
+            android:background="@drawable/shape_bg_color_54aed9_radius_24dp"
+            android:gravity="center"
+            android:text="Create Wallet"
+            android:textColor="@color/color_ffffff"
+            android:textSize="@dimen/sp_16" />
+
+
+        <TextView
+            android:id="@+id/import_wallet_id"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dp_48"
+            android:layout_marginHorizontal="@dimen/dp_38"
+            android:layout_marginTop="@dimen/dp_25"
+            android:background="@drawable/shape_bg_color_54aed9_radius_24dp"
+            android:gravity="center"
+            android:text="Import Wallet"
+            android:textColor="@color/color_ffffff"
+            android:textSize="@dimen/sp_16" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dp_10"
+            android:visibility="gone"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:id="@+id/checkBox"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:buttonTint="@color/colorPrimary"
+                android:gravity="center"
+                android:text=""
+                android:textColor="@color/color_ffffff"
+                android:textSize="@dimen/sp_12"
+
+
+                />
+
+            <TextView
+                android:id="@+id/ttt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="我已阅读并同意《用户服务协议》"
+                android:textColor="@color/color_ffffff"
+                android:textSize="@dimen/sp_12"
+                />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>

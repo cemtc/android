@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path path="Android/data/com.qy.emt/" name="files_root" />
+    <files-path path="." name="files_path" />
+    <root-path path="." name="root"/>
+    <external-path path="." name="files"/>
+    <external-path name="external_files" path="."/>
+    <external-path name="my_download" path="Download" />
+</paths>
